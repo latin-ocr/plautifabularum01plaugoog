@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./plautifabularum01plaugoog_0008.png"; bbox 0 0 3578 5336; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 383 1767 1180 1951">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 383 1767 1180 1951">
+     <span class='ocr_line' id='line_1_1' title="bbox 383 1767 1180 1951; baseline 0.004 -3"><span class='ocrx_word' id='word_1_1' title='bbox 383 1767 741 1949; x_wconf 69' lang='lat' dir='ltr'><strong>FRANCISOO</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 780 1845 1180 1951; x_wconf 67' lang='lat' dir='ltr'>Bvssoflfflss</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 468 2171 1092 2294">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 468 2171 1092 2294">
+     <span class='ocr_line' id='line_1_2' title="bbox 468 2171 1092 2294; baseline -0.003 -2"><span class='ocrx_word' id='word_1_3' title='bbox 468 2188 784 2294; x_wconf 79' lang='lat' dir='ltr'><strong>RENARDO</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 822 2171 1092 2294; x_wconf 76' lang='lat' dir='ltr'>KEKVLE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 445 2462 1119 2639">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 445 2462 1119 2639">
+     <span class='ocr_line' id='line_1_3' title="bbox 445 2462 1119 2639; baseline -0.003 -3"><span class='ocrx_word' id='word_1_5' title='bbox 445 2462 822 2638; x_wconf 73' lang='lat' dir='ltr'><strong>HERMANNO</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 859 2531 1119 2639; x_wconf 69' lang='lat' dir='ltr'>VSENER</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 575 2961 799 3100">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 575 2961 799 3100">
+     <span class='ocr_line' id='line_1_4' title="bbox 575 2961 799 3100; baseline 0.004 0"><span class='ocrx_word' id='word_1_7' title='bbox 575 2961 799 3100; x_wconf 75' lang='lat' dir='ltr'><strong>.&#39;s·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1794 5332">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1794 5332">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1794 5332; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1794 5332; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
